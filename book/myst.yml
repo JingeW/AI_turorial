@@ -1,6 +1,8 @@
 version: 1
 project:
   title: AI for Researchers
+  options:
+    logo_text: AI for Researchers
   authors:
     - name: Jinge
   toc:
@@ -12,3 +14,6 @@ project:
     enabled: true
 site:
   template: book-theme
+  title: AI for Researchers
+  options:
+    logo_text: AI for Researchers
