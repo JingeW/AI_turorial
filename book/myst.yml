@@ -1,0 +1,14 @@
+version: 1
+project:
+  title: AI for Researchers
+  authors:
+    - name: Jinge
+  toc:
+    - file: index.md
+    - file: module-0-orientation/index.md
+      children:
+        - file: module-0-orientation/first-signal.ipynb
+  execute:
+    enabled: true
+site:
+  template: book-theme

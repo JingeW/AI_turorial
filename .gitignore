@@ -1,0 +1,19 @@
+# Jupyter Book build output
+book/_build/
+
+# Datasets are downloaded at run time, never committed
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
